@@ -6,17 +6,17 @@
 		{
 			// Declaring a Variable with a Primitive Type.
 
-			int myInteger;				    	// Declare myInteger as an Integer.
-			double myDouble;			    	// Declare myDouble as a Double.
-			string myString;			    	// Declare myString as a String.
-			bool myBoolean;				    	// Declare myBoolean as an Boolean.
+			int myInteger;						// Declare myInteger as an Integer.
+			double myDouble;					// Declare myDouble as a Double.
+			string myString;					// Declare myString as a String.
+			bool myBoolean;						// Declare myBoolean as an Boolean.
 
 			// Using the Assignment Operator to Assign a Literal Value to a Variable.
 
-			myInteger = 10;				    	// Assign myInteger the Literal Integer Value 10.
-			myDouble = 5.5;				    	// Assign myDouble the Literal Double Value 5.5.
-			myString = "Hello World";	    	// Assign myString the Literal String Value "Hello World".
-			myBoolean = true;				    // Assign myBoolean the Literal Boolean Value true.
+			myInteger = 10;						// Assign myInteger the Literal Integer Value 10.
+			myDouble = 5.5;						// Assign myDouble the Literal Double Value 5.5.
+			myString = "Hello World";			// Assign myString the Literal String Value "Hello World".
+			myBoolean = true;					// Assign myBoolean the Literal Boolean Value true.
 
 			// Compound Statement combining the Variable Declaration and Value Assignment.
 
@@ -28,16 +28,16 @@
 			// Assigning a different value to a Variable will wipe out the old value.
 
 			anotherInteger = 22;				// Assign anotherInteger the Literal Integer Value 22.
-			anotherDouble = 10.44;			    // Assign anotherDouble the Literal Double Value 10.44.
+			anotherDouble = 10.44;				// Assign anotherDouble the Literal Double Value 10.44.
 			anotherString = "Hello Again";		// Assign anotherString the Literal String Value "Hello Again".
-			anotherBoolean = true;		    	// Assign anotherBoolean the Literal Boolean Value true.
+			anotherBoolean = true;				// Assign anotherBoolean the Literal Boolean Value true.
 
 			// Using the Assignment Operator to Assign a Variable Value to a Variable.
 
-			myInteger = anotherInteger;		    // Assign myInteger the Variable Value of anotherInteger.
+			myInteger = anotherInteger;			// Assign myInteger the Variable Value of anotherInteger.
 			myDouble = anotherDouble;			// Assign myDouble the Variable Value of anotherDouble.
 			myString = anotherString;			// Assign myString the Variable Value of anotherString.
-			myBoolean = anotherBoolean;	        // Assign myBoolean the Variable Value of anotherBoolean.
+			myBoolean = anotherBoolean;			// Assign myBoolean the Variable Value of anotherBoolean.
 
 			// Using Basic Arithmetic Operators to compute a Value.
 
