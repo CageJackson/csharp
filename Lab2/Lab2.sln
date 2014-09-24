@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithBooleanExpressions", "WithBooleanExpressions\WithBooleanExpressions.csproj", "{4AC321DE-E7FB-422F-A5B5-FE229866A4B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithNestedDecisions", "WithNestedDecisions\WithNestedDecisions.csproj", "{16F407A8-C1D4-4A03-8516-DA8F3BEED831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithSwitchStatement", "WithSwitchStatement\WithSwitchStatement.csproj", "{4A64EE0F-A369-4106-B614-A3DAF84332D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC321DE-E7FB-422F-A5B5-FE229866A4B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC321DE-E7FB-422F-A5B5-FE229866A4B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC321DE-E7FB-422F-A5B5-FE229866A4B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC321DE-E7FB-422F-A5B5-FE229866A4B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16F407A8-C1D4-4A03-8516-DA8F3BEED831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F407A8-C1D4-4A03-8516-DA8F3BEED831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F407A8-C1D4-4A03-8516-DA8F3BEED831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F407A8-C1D4-4A03-8516-DA8F3BEED831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A64EE0F-A369-4106-B614-A3DAF84332D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A64EE0F-A369-4106-B614-A3DAF84332D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A64EE0F-A369-4106-B614-A3DAF84332D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A64EE0F-A369-4106-B614-A3DAF84332D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
