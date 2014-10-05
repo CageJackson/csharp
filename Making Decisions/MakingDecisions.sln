@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithNestedDecisions", "With
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithSwitchStatement", "WithSwitchStatement\WithSwitchStatement.csproj", "{4A64EE0F-A369-4106-B614-A3DAF84332D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example1", "Example1\Example1.csproj", "{A0BEF679-AF33-4E01-9027-B7A643EE1C76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example2", "Example2\Example2.csproj", "{A42DEB3A-BC43-4A5B-9C87-097462F3C19E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,14 @@ Global
 		{4A64EE0F-A369-4106-B614-A3DAF84332D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A64EE0F-A369-4106-B614-A3DAF84332D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A64EE0F-A369-4106-B614-A3DAF84332D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0BEF679-AF33-4E01-9027-B7A643EE1C76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BEF679-AF33-4E01-9027-B7A643EE1C76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BEF679-AF33-4E01-9027-B7A643EE1C76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BEF679-AF33-4E01-9027-B7A643EE1C76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A42DEB3A-BC43-4A5B-9C87-097462F3C19E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42DEB3A-BC43-4A5B-9C87-097462F3C19E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42DEB3A-BC43-4A5B-9C87-097462F3C19E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42DEB3A-BC43-4A5B-9C87-097462F3C19E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
